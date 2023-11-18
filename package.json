@@ -1,0 +1,23 @@
+{
+  "name": "roambackend",
+  "version": "1.0.0",
+  "description": "moviesearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menty44/roamingbackend.git"
+  },
+  "keywords": [
+    "roam",
+    "roambackend"
+  ],
+  "author": "Fredrick Oluoch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menty44/roamingbackend/issues"
+  },
+  "homepage": "https://github.com/menty44/roamingbackend#readme"
+}
